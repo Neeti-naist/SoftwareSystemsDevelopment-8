@@ -4,7 +4,9 @@ function App() {
         <Container>
         test
             <Row>
+        test2
                 <Col md={{ offset: 3, span: 6 }}>
+    test3
                     <TodoListCard />
                 </Col>
             </Row>
